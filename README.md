@@ -3,10 +3,7 @@
 # FOOD WASTE MANAGEMENT
 
 ### Hosted on Netlify
--[live url](https://food-waste-managements.netlify.app/)
-
-### Demo
-- [Youtube Demo](https://youtu.be/Cv4XsSxXOpA)
+-[live url](https://fight-hunger7.netlify.app/)
 
 ### Project Problem Statement:
 Every restaurant has perfectly good food that they cannot sell at the end of their day. 
